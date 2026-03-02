@@ -1,0 +1,24 @@
+{
+  "version": 1,
+  "base_track": "衝動バケモノ",
+  "base_artist": "サンボマスター",
+  "createdAt": "2026-03-02T17:58:17.735739Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "衝動バケモノ",
+      "artist": "サンボマスター",
+      "has_synced": true,
+      "path": "select/01_衝動バケモノ_サンボマスター.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "衝動バケモノ",
+      "artist": "サンボマスター",
+      "has_synced": false,
+      "path": "select/pl_01_衝動バケモノ_サンボマスター.txt"
+    }
+  ]
+}
